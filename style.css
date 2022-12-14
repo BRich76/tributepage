@@ -1,0 +1,54 @@
+body {
+    color: red;
+    background-color: black;
+}
+
+h1 {
+    text-align:center;
+    color:red;
+}
+
+h2 {
+    text-align:center;
+    color:red;
+}
+    
+.corydancing {
+    height:400px;
+    margin-top:-120px;
+    width:520px;
+}
+    
+.corydesign {
+    height:400px;
+    margin-left:450px;
+    width:450px;
+}
+    
+.div1 {
+    background-color:black;
+}
+
+.coryfunnygif1 {
+    width:1425px;
+}
+    
+.corydesign2 {
+    width:1350px;
+    height:500px;
+}
+    .firstwordsp{
+        text-align: center;
+    }
+
+.achievements{
+color:red
+}
+
+.conclusion{
+color:red
+}
+
+.recommendations{
+
+}
